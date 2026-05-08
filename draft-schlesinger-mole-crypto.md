@@ -15,12 +15,12 @@ keyword:
  - unlinkability
  - cryptography
 venue:
-  group: "Anti-Fraud Community Group"
-  type: "Community Group"
-  mail: "public-antifraud@w3.org"
-  arch: "https://lists.w3.org/Archives/Public/public-antifraud/"
+#  group: "Anti-Fraud Community Group"
+#  type: "Community Group"
+#  mail: "public-antifraud@w3.org"
+#  arch: "https://lists.w3.org/Archives/Public/public-antifraud/"
   github: "Moderation-of-unLinkable-Endorsements/crypto-drafts"
-  latest: "https://moderation-of-unlinkable-endorsements.github.io/crypto-drafts/draft-schlesinger-mole-crypto.html"
+  latest: "https://Moderation-of-unLinkable-Endorsements.github.io/crypto-drafts/draft-schlesinger-mole-crypto.html"
 
 author:
  -
