@@ -4,23 +4,23 @@ abbrev: "MoLE Crypto"
 category: info
 
 docname: draft-schlesinger-mole-crypto-latest
-submissiontype: IRTF
+submissiontype: IETF
 number:
 date:
 consensus: true
 v: 3
-area: IRTF
-workgroup: "Crypto Forum"
+area: TBD
+workgroup: TBD
 keyword:
  - moderation
  - endorsement
  - unlinkability
  - cryptography
 venue:
-  group: "Crypto Forum"
-  type: "Research Group"
-  mail: "cfrg@ietf.org"
-  arch: "https://mailarchive.ietf.org/arch/browse/cfrg"
+  group: "Anti-Fraud Community Group"
+  type: "Community Group"
+  mail: "public-antifraud@w3.org"
+  arch: "https://lists.w3.org/Archives/Public/public-antifraud/"
   github: "Moderation-of-unLinkable-Endorsements/crypto-drafts"
   latest: "https://moderation-of-unlinkable-endorsements.github.io/crypto-drafts/draft-schlesinger-mole-crypto.html"
 
